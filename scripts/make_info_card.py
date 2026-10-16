@@ -13,7 +13,7 @@ details = [
     ("Focus", "Data Analytics, Data Science & Data Engineering"),
     ("Languages", "Python, SQL, R, JavaScript, Java, C++"),
     ("Tools", "Pandas, Numpy, PostgreSQL, Git"),
-    ("Projects", "Smart Farming AI, RE-WEAR"),
+    ("Projects", "Intelligent-Agricultural-Resource-Optimization, RE-WEAR"),
 ]
 
 width = 650
