@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="330" viewBox="0 0 650 330">
+<rect width="100%" height="100%" rx="14" fill="#0d1117"/>
+<rect x="1" y="1" width="648" height="328" rx="14" fill="none" stroke="#30363d"/>
+<style>
+text { font-family: monospace; font-size: 15px; }
+.key { fill: #58a6ff; }
+.value { fill: #e6edf3; }
+@keyframes fadeIn {
+from { opacity: 0; transform: translateY(4px); }
+to { opacity: 1; transform: translateY(0); }
+}
+@keyframes blink { 50% { opacity: 0; } }
+</style>
+<text x="25" y="42" fill="#58a6ff" font-size="17">salma@github:~$ whoami</text>
+<text x="25" y="78" fill="#e6edf3" font-size="17">Computer Science Student</text>
+<g style="opacity:0;animation:fadeIn 0.4s ease 0.30s forwards"><text class="key" x="25" y="112">Education:</text><text class="value" x="145" y="112">BSc Computer Science | Year 3</text></g>
+<g style="opacity:0;animation:fadeIn 0.4s ease 0.55s forwards"><text class="key" x="25" y="143">University:</text><text class="value" x="145" y="143">University of Angers, France</text></g>
+<g style="opacity:0;animation:fadeIn 0.4s ease 0.80s forwards"><text class="key" x="25" y="174">Focus:</text><text class="value" x="145" y="174">Data Analytics, Data Science &amp; Data Engineering</text></g>
+<g style="opacity:0;animation:fadeIn 0.4s ease 1.05s forwards"><text class="key" x="25" y="205">Languages:</text><text class="value" x="145" y="205">Python, SQL, R, JavaScript, Java, C++</text></g>
+<g style="opacity:0;animation:fadeIn 0.4s ease 1.30s forwards"><text class="key" x="25" y="236">Tools:</text><text class="value" x="145" y="236">Pandas, Numpy, PostgreSQL, Git</text></g>
+<g style="opacity:0;animation:fadeIn 0.4s ease 1.55s forwards"><text class="key" x="25" y="267">Projects:</text><text class="value" x="145" y="267">Smart Farming AI, RE-WEAR</text></g>
+<text x="25" y="313" fill="#58a6ff" style="animation:blink 1s infinite">❯ _</text>
+</svg>

@@ -1,24 +1,20 @@
-## Hi there 👋
-
-<!--
-**salmaouelaa/salmaouelaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
 
-<h2>Welcome to my GitHub Profile!</h2>
+<h2>Hi, I'm Salma 👋</h2>
 
-<img src="./avi-ascii.svg" width="370" alt="Animated ASCII portrait" />
+<p>
+Computer Science Student | Data Analytics & Engineering
+</p>
+
+<table>
+<tr>
+<td valign="top">
+<img src="./avi-ascii.svg" width="320" alt="ASCII portrait" />
+</td>
+<td valign="top">
+<img src="./info-card.svg" width="500" alt="About me" />
+</td>
+</tr>
+</table>
 
 </div>
