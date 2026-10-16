@@ -1,5 +1,17 @@
 <div align="center">
 
+<h3>My GitHub Activity</h3>
+
+<img
+  src="./contrib-heatmap.svg"
+  width="850"
+  alt="Animated GitHub contribution graph"
+/>
+
+</div>
+
+<div align="center">
+
 <h2>Hi, I'm Salma 👋</h2>
 
 <p>
