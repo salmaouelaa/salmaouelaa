@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="383.6" height="426" viewBox="0 0 383.6 426">
+<rect width="100%" height="100%" fill="#0d1117"/>
+<style>
+text { font-family: monospace; font-size: 10px; fill: #58a6ff; white-space: pre; }
+@keyframes appear { from { opacity: 0; } to { opacity: 1; } }
+</style>
+<text x="12" y="20" style="opacity:0;animation:appear 0.1s ease 0.00s forwards">::::...............:.................................::::-</text>
+<text x="12" y="31" style="opacity:0;animation:appear 0.1s ease 0.09s forwards">.....................................................:::::</text>
+<text x="12" y="42" style="opacity:0;animation:appear 0.1s ease 0.18s forwards">......................................................::::</text>
+<text x="12" y="53" style="opacity:0;animation:appear 0.1s ease 0.27s forwards">:::::.........................:--:......................::</text>
+<text x="12" y="64" style="opacity:0;animation:appear 0.1s ease 0.36s forwards">----::-:::::::::..........-*%@@@@@@#+:...................:</text>
+<text x="12" y="75" style="opacity:0;animation:appear 0.1s ease 0.45s forwards">:.............:::.......=%@@@@@@@@@@@@+...................</text>
+<text x="12" y="86" style="opacity:0;animation:appear 0.1s ease 0.54s forwards">:..............::......+@@%*###%@@@@@@@=..................</text>
+<text x="12" y="97" style="opacity:0;animation:appear 0.1s ease 0.63s forwards">:..............::.....-+------==++*@@@@@:.................</text>
+<text x="12" y="108" style="opacity:0;animation:appear 0.1s ease 0.72s forwards">................:.....:..:---==+++++#@@@-.................</text>
+<text x="12" y="119" style="opacity:0;animation:appear 0.1s ease 0.81s forwards">......................::===-=*%%%#*+=+@@+-................</text>
+<text x="12" y="130" style="opacity:0;animation:appear 0.1s ease 0.90s forwards">.......................-*%#-=#%%@%*++=+**-................</text>
+<text x="12" y="141" style="opacity:0;animation:appear 0.1s ease 0.99s forwards">........................-**:=**++===+==++.................</text>
+<text x="12" y="152" style="opacity:0;animation:appear 0.1s ease 1.08s forwards">........................:--:=***=======-..............-=--</text>
+<text x="12" y="163" style="opacity:0;animation:appear 0.1s ease 1.17s forwards">........................:=+:=*#***++===*..............:---</text>
+<text x="12" y="174" style="opacity:0;animation:appear 0.1s ease 1.26s forwards">.........................:+==####*+++==@*.................</text>
+<text x="12" y="185" style="opacity:0;animation:appear 0.1s ease 1.35s forwards">..........................:::=+++++***+#@*:...............</text>
+<text x="12" y="196" style="opacity:0;animation:appear 0.1s ease 1.44s forwards">.............................-=+**###**-*@*...............</text>
+<text x="12" y="207" style="opacity:0;animation:appear 0.1s ease 1.53s forwards">............................=-:=+****=-*@@@-..............</text>
+<text x="12" y="218" style="opacity:0;animation:appear 0.1s ease 1.62s forwards">:.....................::-:.:%*--===-:=%@@@@@*-:...........</text>
+<text x="12" y="229" style="opacity:0;animation:appear 0.1s ease 1.71s forwards">................:=+*%%@@#..-%#=-:..:+@@@@@@@@@@%#+=-......</text>
+<text x="12" y="240" style="opacity:0;animation:appear 0.1s ease 1.80s forwards">...............-%@@@@@@@-=+:=-....:*@@@@@@@@@@@@@@@@@*....</text>
+<text x="12" y="251" style="opacity:0;animation:appear 0.1s ease 1.89s forwards">..............-@@@@@@@@@#%:..:...:*@@@@@@@@@@@@@@@@@@@*...</text>
+<text x="12" y="262" style="opacity:0;animation:appear 0.1s ease 1.98s forwards">.....=-:.....-@@@@@@@@@@%:...:..-#@@@@@@@@@@@@@@@@@@@@#...</text>
+<text x="12" y="273" style="opacity:0;animation:appear 0.1s ease 2.07s forwards">....:#%-::::+@@@@@@@@@@#.....:.-#@@@@@@@@@@@@@@@@@@@@@+...</text>
+<text x="12" y="284" style="opacity:0;animation:appear 0.1s ease 2.16s forwards">.....++:...*@@@@@@@@@@#.....:.:#@@@@@@@@@@@@@@@@@@@@@@:...</text>
+<text x="12" y="295" style="opacity:0;animation:appear 0.1s ease 2.25s forwards">..........=@@@@@@@@@@%........#@@@@@@@@@@@@@@@@@@@@@@%....</text>
+<text x="12" y="306" style="opacity:0;animation:appear 0.1s ease 2.34s forwards">.........=@@@@@@@@@@@-.......*@@@@@@@@@@@@@@@@@@@@@@@*....</text>
+<text x="12" y="317" style="opacity:0;animation:appear 0.1s ease 2.43s forwards">..::....*@@@@@@@@@@@%.......=@@@@@@@@@@@@@@@@@@@@@@@@-....</text>
+<text x="12" y="328" style="opacity:0;animation:appear 0.1s ease 2.52s forwards">::::...*@@@@@@@@@@@@%:......@@@@@@@@@@@@#%@@@@@@@@@@%.....</text>
+<text x="12" y="339" style="opacity:0;animation:appear 0.1s ease 2.61s forwards">:.....*@@@@@@@@@@@@@@-.....=@@@@@@@@@@%+-*@@@@@@@@@@-.....</text>
+<text x="12" y="350" style="opacity:0;animation:appear 0.1s ease 2.70s forwards">:....#@@@@@@@@@%@@@@@#-..:.*@@@@@@@@@+:=#@@@@@@@@@@*......</text>
+<text x="12" y="361" style="opacity:0;animation:appear 0.1s ease 2.79s forwards">::..=@@@@@@@@*=*@@@@@@@@%%#@@@@@@@@@*=*%@@@@@@@@@@#.......</text>
+<text x="12" y="372" style="opacity:0;animation:appear 0.1s ease 2.88s forwards">::.:@@@@@@@@%+%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%........</text>
+<text x="12" y="383" style="opacity:0;animation:appear 0.1s ease 2.97s forwards">::::%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#.........</text>
+<text x="12" y="394" style="opacity:0;animation:appear 0.1s ease 3.06s forwards">::::%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*..........</text>
+<text x="12" y="405" style="opacity:0;animation:appear 0.1s ease 3.15s forwards">::::#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%...........</text>
+</svg>

@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+<h2>Welcome to my GitHub Profile!</h2>
+
+<img src="./avi-ascii.svg" width="370" alt="Animated ASCII portrait" />
+
+</div>
