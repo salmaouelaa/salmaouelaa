@@ -18,6 +18,5 @@ to { opacity: 1; transform: translateY(0); }
 <g style="opacity:0;animation:fadeIn 0.4s ease 0.80s forwards"><text class="key" x="25" y="174">Focus:</text><text class="value" x="145" y="174">Data Analytics, Data Science &amp; Data Engineering</text></g>
 <g style="opacity:0;animation:fadeIn 0.4s ease 1.05s forwards"><text class="key" x="25" y="205">Languages:</text><text class="value" x="145" y="205">Python, SQL, R, JavaScript, Java, C++</text></g>
 <g style="opacity:0;animation:fadeIn 0.4s ease 1.30s forwards"><text class="key" x="25" y="236">Tools:</text><text class="value" x="145" y="236">Pandas, Numpy, PostgreSQL, Git</text></g>
-<g style="opacity:0;animation:fadeIn 0.4s ease 1.55s forwards"><text class="key" x="25" y="267">Projects:</text><text class="value" x="145" y="267">Intelligent-Agricultural-Resource-Optimization, RE-WEAR, Enterprise-Sales-Data-Warehouse</text></g>
 <text x="25" y="313" fill="#58a6ff" style="animation:blink 1s infinite">❯ _</text>
 </svg>
